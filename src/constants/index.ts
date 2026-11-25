@@ -8,6 +8,17 @@ export const NAVIGATION = [
 
 export const PROJECTS = [
     {
+        title: "KADO — Site vitrine solution de fidélité",
+        image: "kado_z3bmyv",
+        content: "Site vitrine responsive pour KADO, une solution de fidélité complète (plateforme, cartes sans contact, hardware, marketing et données). Le site présente le principe de la solution, les fonctionnalités, le parcours client en quatre étapes et les secteurs ciblés (restaurants, retail, fitness, salons, car wash, hôtels), avec un formulaire de demande de démo.",
+        stack: ["NextJs", "TypeScript", "Tailwindcss"],
+        client: "Clearmind Analytics",
+        year: 2026,
+        url: "https://www.kadofidelite.com",
+        type: 'frontend',
+        category: "client"
+    },
+    {
         "title": "Clearmind Analytics — OCR",
         "image": "ocr_xa8h22",
         "content": "Application de démonstration IA pour Clearmind Analytics. Extraction automatique de données depuis des factures (PDF/image) via OCR, avec vérification et correction manuelle des données extraites. Inclut un module ATS pour l'analyse de CV",
