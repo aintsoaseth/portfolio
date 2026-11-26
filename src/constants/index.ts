@@ -8,6 +8,17 @@ export const NAVIGATION = [
 
 export const PROJECTS = [
     {
+        title: "ClearMind Academy — Plateforme E-Learning",
+        image: "aca_tiwb7b",
+        content: "Plateforme d'apprentissage en ligne (LMS) conçue pour les étudiants de ClearMind Academy. Elle permet de parcourir le catalogue de formations, suivre les cours vidéo et les leçons structurées par modules, passer des évaluations et suivre sa progression personnelle depuis un espace étudiant sécurisé, déployé sur Firebase App Hosting.",
+        stack: ["Next.js", "TypeScript", "Tailwindcss", "TanStack Query", "NextAuth", "Zod", "App hosting", "Firebase"],
+        client: "Clearmind Analytics",
+        year: 2026,
+        url: "https://www.clearmind-academy.com",
+        type: "frontend",
+        category: "client"
+    },
+    {
         title: "KADO — Site vitrine solution de fidélité",
         image: "kado_z3bmyv",
         content: "Site vitrine responsive pour KADO, une solution de fidélité complète (plateforme, cartes sans contact, hardware, marketing et données). Le site présente le principe de la solution, les fonctionnalités, le parcours client en quatre étapes et les secteurs ciblés (restaurants, retail, fitness, salons, car wash, hôtels), avec un formulaire de demande de démo.",
